@@ -1,0 +1,5 @@
+E:\Projects\GoogleDrive\Programming\C#\Huffman_Code\Huffman_Code\bin\Debug\Huffman_Code.exe
+E:\Projects\GoogleDrive\Programming\C#\Huffman_Code\Huffman_Code\bin\Debug\Huffman_Code.pdb
+E:\Projects\GoogleDrive\Programming\C#\Huffman_Code\Huffman_Code\obj\x86\Debug\Huffman_Code.exe
+E:\Projects\GoogleDrive\Programming\C#\Huffman_Code\Huffman_Code\obj\x86\Debug\Huffman_Code.pdb
+E:\Projects\GoogleDrive\Programming\C#\Huffman_Code\Huffman_Code\obj\x86\Debug\Huffman_Code.csprojResolveAssemblyReference.cache
